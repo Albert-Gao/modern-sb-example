@@ -1,0 +1,20 @@
+Watching /Users/AlbertGao/codes/temp/modern-sb-example and all sub-directories not excluded by your .gitignore. Will not monitor dotfiles.
+Found & ignored ./node_modules ; is listed in .gitignore
+Found & ignored ./src/stories/button.css ; has ignored extension
+Found & ignored ./src/stories/header.css ; has ignored extension
+Found & ignored ./src/stories/page.css ; has ignored extension
+Found & ignored ./storybook-static/static/css/main.80d09ada.chunk.css ; has ignored extension
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+internal/modules/cjs/loader.js:1032
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/AlbertGao/codes/temp/modern-sb-example/build-storybook'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1029:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:898:27)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
+    at internal/main/run_main_module.js:17:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
