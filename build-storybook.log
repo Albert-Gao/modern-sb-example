@@ -18,3 +18,213 @@ Error: Cannot find module '/Users/AlbertGao/codes/temp/modern-sb-example/build-s
   code: 'MODULE_NOT_FOUND',
   requireStack: []
 }
+./storybook-static/vendors~main.9f9e55cb.iframe.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/vendors~main.0b7555aaeb5d052c07aa.manager.bundle.js.LICENSE.txt changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/vendors~main.0b7555aaeb5d052c07aa.manager.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/vendors~main.9f9e55cb.iframe.bundle.js.LICENSE.txt changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/vendors~main.9f9e55cb.iframe.bundle.js.map changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/0.a598bf61.iframe.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/11.7f35c06cd77f40a88403.manager.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/runtime~main.154c91de.iframe.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/11.7f35c06cd77f40a88403.manager.bundle.js.LICENSE.txt changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/7.616e3f66.iframe.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/robots.txt changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/logo192.png changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/main.57da3f9fe16e02557812.manager.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/index.html changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+(node:74330) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 end listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+./storybook-static/6.297d139ca80380169c9a.manager.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+(node:74330) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 data listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit
+./storybook-static/9.da52dd791e7234e0495a.manager.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/1.08e48cd2b295b33abac5.manager.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/static/media/stackalt.dba9fbb3.svg changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/4.3098ecee.iframe.bundle.js.LICENSE.txt changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/manifest.json changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/5.4d5248d1e985d19512e5.manager.bundle.js.LICENSE.txt changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/static/media/direction.b770f9af.svg changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/10.58b60afe35d013b05f26.manager.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/logo512.png changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/8.0c32e96f86b87a58d415.manager.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/static/media/plugin.d494b228.svg changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/0.1db6407b6f251cb99757.manager.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/static/media/flow.edad2ac1.svg changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/5.4d5248d1e985d19512e5.manager.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/7.1dd6103d8c4adf231b89.manager.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/6.170de520.iframe.bundle.js.map changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/runtime~main.335986b66fb5bcf65138.manager.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/12.2f8d9cc3bdcfbb59dabf.manager.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/6.170de520.iframe.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./build-storybook.log changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/4.3098ecee.iframe.bundle.js.map changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/static/media/repo.6d496322.svg changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/6.170de520.iframe.bundle.js.LICENSE.txt changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/asset-manifest.json changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/static/media/code-brackets.2e1112d7.svg changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/static/css/main.80d09ada.chunk.css.map changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/iframe.html changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/4.3098ecee.iframe.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/main.da215bdd.iframe.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/static/media/colors.a4bd0486.svg changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/static/media/comments.a3859089.svg changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/5.e5e16f53.iframe.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/favicon.ico changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+internal/modules/cjs/loader.js:1032
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/AlbertGao/codes/temp/modern-sb-example/build-storybook'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1029:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:898:27)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
+    at internal/main/run_main_module.js:17:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+./storybook-static/favicon.ico changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/main.57da3f9fe16e02557812.manager.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/vendors~main.0b7555aaeb5d052c07aa.manager.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./build-storybook.log changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+internal/modules/cjs/loader.js:1032
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/AlbertGao/codes/temp/modern-sb-example/build-storybook'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1029:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:898:27)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
+    at internal/main/run_main_module.js:17:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+./storybook-static/main.57da3f9fe16e02557812.manager.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/vendors~main.0b7555aaeb5d052c07aa.manager.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/main.57da3f9fe16e02557812.manager.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./storybook-static/vendors~main.0b7555aaeb5d052c07aa.manager.bundle.js changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+./build-storybook.log changed
+
+Starting: build-storybook -- --output-dir /var/folders/p3/x7kv3v316_102yx9vy8j8jl80000gp/T/chromatic--74320-EZ463E1vaJa8
+internal/modules/cjs/loader.js:1032
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/AlbertGao/codes/temp/modern-sb-example/build-storybook'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:1029:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:898:27)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
+    at internal/main/run_main_module.js:17:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
