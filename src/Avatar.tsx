@@ -10,7 +10,11 @@ export const sizes = {
   tiny: 16,
 };
 
-const Image = styled.div<{ size: keyof typeof sizes; loading: boolean }>`
+const Image = styled.div<{
+  size: keyof typeof sizes;
+  loading: boolean;
+  src: string;
+}>`
   background: ${(props) => (!props.loading ? "transparent" : color.light)};
   border-radius: 50%;
   display: inline-block;
@@ -81,7 +85,7 @@ const Initial = styled.div<{size:keyof typeof sizes}>`
   line-height: ${sizes.medium}px;
 
   ${props => props.size === "tiny" && css`
-    font-size: ${typography.size.s1 - 2}px;
+    font-size: ${typography.size.s1 as unknown as number - 2}px;
     line-height: ${sizes.tiny}px;
   `}
 
@@ -145,7 +149,13 @@ export function Avatar({
   }
 
   return (
-    <Image size={size} loading={loading} src={src} {...a11yProps} {...props}>
+    <Image
+      size={size}
+      loading={loading}
+      src={src ?? ""}
+      {...a11yProps}
+      {...props}
+    >
       {avatarFigure}
     </Image>
   );
